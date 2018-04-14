@@ -1,1 +1,8 @@
-.swp
+.DS_Store
+.gdb_history
+
+*.swp
+*.swo
+
+cTest.out
+cTest.outr
